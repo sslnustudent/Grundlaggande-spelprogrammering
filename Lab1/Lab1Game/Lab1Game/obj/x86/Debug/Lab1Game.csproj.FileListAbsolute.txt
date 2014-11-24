@@ -1,0 +1,10 @@
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\bin\WindowsGL\Debug\SDL.dll
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\bin\WindowsGL\Debug\Lab1Game.exe
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\bin\WindowsGL\Debug\Lab1Game.pdb
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\obj\x86\Debug\Lab1Game.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\obj\x86\Debug\Lab1Game.exe
+C:\Users\Sebastian Svensson\Desktop\GitHub\Grundlaggande-spelprogrammering\Lab1\Lab1Game\Lab1Game\obj\x86\Debug\Lab1Game.pdb
